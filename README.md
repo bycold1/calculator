@@ -12,7 +12,7 @@ A minimalistic calculator web application built using HTML, CSS, and JavaScript.
 
 ## Usage
 
-To use the calculator, simply open the `calculator.html` file in a modern web browser. Enter numbers and operators using the calculator buttons, and press the equal (=) button to evaluate the expression. Use the clear (C) button to clear the input, and the delete (Del) button to remove the last character from the input.
+To use the calculator, simply open the `open.html` file in a modern web browser. Enter numbers and operators using the calculator buttons, and press the equal (=) button to evaluate the expression. Use the clear (C) button to clear the input, and the delete (Del) button to remove the last character from the input.
 
 ## License
 
